@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **chankruze@geekofia.in**
 
-- ⚡ Fun fact is **Life is a bitch!**
+- ⚡ Fun fact is **I have an adorable, responsible & solicitous wife 💖**
 
 #### Listening to
 [![Spotify](https://listening-on-spotify-hjin4cjng.vercel.app/api/spotify)](https://open.spotify.com/user/cvnkjxwnpwf7b6rz30etwbg90)
