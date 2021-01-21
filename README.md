@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar Mandal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chankruze" alt="chankruze" /> </p>
 
-- 🔭 I’m currently working on [Hunter: Ultimate SX VIP Hacks](https://hunter.org.in)
+- 🔭 I’m currently working on **E-commerce Website for Small/Medium Business (both for Online/Offline goods)**
 
-- 🌱 I’m currently developing skills in **React, GraphQL and Kotlin**
+- 🌱 I’m currently developing skills in **React, GraphQL and MongoDB**
 
-- 💬 Ask me about **android, java, react, javascript**
+- 💬 Ask me about **android, java, react, javascript, MongoDB**
 
 - 📫 Reach me at **chankruze@geekofia.in**
 
