@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **android, java, react, javascript, MongoDB**
 
-- 📫 Reach me at **chankruze@geekofia.in**
+- 📫 Reach me at **chankruze@geekofia.in** (currently not reading emails)
 
 #### Listening to
 [![Spotify](https://listening-on-spotify-hjin4cjng.vercel.app/api/spotify)](https://open.spotify.com/user/cvnkjxwnpwf7b6rz30etwbg90)
